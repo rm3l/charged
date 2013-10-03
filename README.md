@@ -4,7 +4,9 @@ A high-level binding to the [Chargify](http://chargify.com/) API.
 
 Charged also provides an interactive chargify shell for managing sites.
 
+#
 # Example Usage
+#
 
 ``` js
 var charged = require('charged');
